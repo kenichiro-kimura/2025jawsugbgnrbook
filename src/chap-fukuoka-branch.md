@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-# 福岡支部について {#fukuoka-branch}
+# 福岡支部について
 <div class="flush-right">
 木村健一郎（Kenichiro Kimura）
 </div>
