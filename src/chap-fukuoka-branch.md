@@ -9,11 +9,13 @@ class: chapter
 
 JAWS-UG福岡は、AWS User Group - Japan(JAWS-UG)の地方支部の1つで、福岡県を中心に活動しています。
 
+![](./images/jawsug_fukuoka.jpg)
+
 ## 支部の特徴
 
 『博多名物「乾杯」から始まるJAWS-UG』をキャッチフレーズに、オンオフを問わず楽しくAWSについて学び、交流しています。初心者もベテランもお酒飲む人も飲まない人も誰でもお気軽にご参加いただけます。
 
-オフラインイベントではキャッチフレーズの通り「乾杯」から始まり、和やかな雰囲気でAWSの最新情報や技術について学べる場を提供しています。また、オンラインもくもく会では、参加者が各自のプロジェクトに集中しながらも、質問や情報交換ができる環境を整えています。
+オフラインイベントではキャッチフレーズの通り「乾杯」から始まり、和やかな雰囲気でAWSの最新情報や技術について学べる場を提供しています。また、オンラインもくもく会では、参加者が各自の課題に集中しながらも、質問や情報交換ができる環境を整えています。
 
 ## 主な活動内容
 
@@ -22,9 +24,18 @@ JAWS-UG福岡では、以下のような活動を行っています。
 - オフラインイベント(2～3ヶ月に1回程度)
 - オンラインもくもく会(毎週木曜 21時〜22時)
 
-九州地域の他の支部とも連携しており、AWS SummitやJAWS DAYSなどの大規模イベントに向けて毎週リレー開催を行う「JAWS-UG九州キャラバン」などの取り組みも行っています。
+九州地域の他の支部とも密接に連携しており、互いのイベントの運営を相互に手伝いに行ったり、AWS SummitやJAWS DAYSなどの大規模イベントに向けて毎週リレー開催を行う「JAWS-UG九州キャラバン」などの取り組みを行ったりしています。
 
 ## 過去のイベント例
+
+- [JAWS-UG福岡 #19: 15度目はちょっと濃いめに AWS BuilderCards で遊ぼう](https://jawsug-fukuoka.connpass.com/event/331182/)  
+  AWS BuilderCards を通してAWS のサービスやアーキテクチャを楽しく学ぶイベント。
+- [JAWS-UG福岡 #19: re:Invent re:Cap!!](https://jawsug-fukuoka.connpass.com/event/341319/)  
+  AWS re:Invent 2024の内容を振り返るイベント。「JAWS-UG九州キャラバン 〜road to JAWS DAYS 2025〜」の一環として開催。
+- [JAWS-UG福岡 #20: Storage-JAWS共催スペシャル](https://jawsug-fukuoka.connpass.com/event/338907/)  
+  [Storage-JAWS](https://storage-jaws.connpass.com/)とのコラボイベント。
+- [[現地開催] JAWS-UG福岡in北九州 #21 Amazon Q Developer ハンズオン](https://jawsug-fukuoka.connpass.com/event/346669/)  
+  Amazon Q Developer for CLI を使ってAIエージェントを動かしてみるハンズオンイベント。「JAWS-UG九州キャラバン 〜road to Summit 2025〜」の一環として開催。
 
 ## 参加方法
 
@@ -32,9 +43,7 @@ JAWS-UG福岡のイベント情報は、主にConnpassで告知しています�
 
 https://jawsug-fukuoka.connpass.com/
 
-## 今後の展望
-
-## 著者紹介
+#### 著者紹介
 
 ---
 
