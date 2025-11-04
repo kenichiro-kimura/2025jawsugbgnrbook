@@ -66,7 +66,7 @@ https://jawsug-fukuoka.connpass.com/
     <div>
         <div>
             <b>内村 和博</b>
-                        <a href="https://x.com/kz_uchi">@kz_uchi</a>
+                        <a href="https://x.com/kazu_UCHIMURA">@kazu_UCHIMURA</a>
         </div>
     </div>
     <img src="images/fukuoka/kimura.png">
