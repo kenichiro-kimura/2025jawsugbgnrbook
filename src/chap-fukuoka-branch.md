@@ -9,7 +9,7 @@ class: chapter
 
 JAWS-UG福岡は、AWS User Group - Japan(JAWS-UG)の地方支部の1つで、福岡県を中心に活動しています。
 
-![](./images/jawsug_fukuoka.jpg)
+![](./images/fukuoka/jawsug_fukuoka.png)
 
 ## 支部の特徴
 
@@ -43,32 +43,73 @@ JAWS-UG福岡のイベント情報は、主にConnpassで告知しています�
 
 https://jawsug-fukuoka.connpass.com/
 
-#### 著者紹介
+#### コアメンバー紹介
 
 ---
 
 <div class="author-profile">
-    <img src="images/kenichiro-kimura.jpg">
+    <img src="images/fukuoka/aoyagi.png">
+    <div>
+        <div>
+            <b>青柳 英明</b>
+                        <a href="https://x.com/hideaki_aoyagi">@hideaki_aoyagi</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/abe.png">
+    <div>
+        <div>
+            <b>あべたく</b>
+                        <a href="https://x.com/east_takumi">@east_takumi</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/uchimura.png">
+    <div>
+        <div>
+            <b>内村 和博</b>
+                        <a href="https://x.com/kz_uchi">@kz_uchi</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/kimura.png">
     <div>
         <div>
             <b>木村健一郎</b>
                         <a href="https://x.com/show_m001">@show_m001</a>
         </div>
+    </div>
+    <img src="images/fukuoka/seike.png">
+    <div>
         <div>
-            zenn: <a href="https://zenn.dev/showm001">https://zenn.dev/showm001</a><br>
-            はてな: <a href="https://showm001.hatenablog.com/">https://showm001.hatenablog.com/</a>
+            <b>清家 史郎</b>
+                        <a href="https://x.com/seike460">@seike460</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/natsume.png">
+    <div>
+        <div>
+            <b>夏目 祐樹</b>
+                        <a href="https://x.com/sinofseven">@sinofseven</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/beco_minn.png">
+    <div>
+        <div>
+            <b>べこみん</b>
+                        <a href="https://x.com/beco_minn">@beco_minn</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/matsuoka.png">
+    <div>
+        <div>
+            <b>松岡 文雄</b>
+                        <a href="https://x.com/tama_katsura">@tama_katsura</a>
+        </div>
+    </div>
+    <img src="images/fukuoka/morita.png">
+    <div>
+        <div>
+            <b>森田 邦裕</b>
+                        <a href="https://x.com/92hi_6">@92hi_6</a>
         </div>
     </div>
 </div>
-<p style="margin-top: 0.5em; margin-bottom: 2em;">
-
-福岡市内のスタートアップ企業で20年に渡って自社サービスの開発・運用に携わっていたが、縁あって2020年1月に(株)オルターブースに
-ジョイン。
-2014年頃からIoTやサーバレスの世界に魅せられ、コミュニティ関連はJAWS-UG福岡とSORACOM UG九州を中心に活動中。
-家に帰ると8歳の娘と戯れる日々。<br>
-<br>
-受賞歴:
-- AWS Samurai 2019(JAWS-UG福岡支部として)
-- APJ Community Leaders Award 2023(Ownership)
-- SORACOM MVC 2021,2023
 </p>
