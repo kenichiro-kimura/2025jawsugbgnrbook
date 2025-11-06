@@ -17,6 +17,10 @@ JAWS-UG福岡は、AWS User Group - Japan(JAWS-UG)の地方支部の1つで、�
 
 オフラインイベントではキャッチフレーズの通り「乾杯」から始まり、和やかな雰囲気でAWSの最新情報や技術について学べる場を提供しています。また、オンラインもくもく会では、参加者が各自の課題に集中しながらも、質問や情報交換ができる環境を整えています。
 
+### in北九州について
+
+JAWS-UG福岡のサブグループとして、2025年より北九州市を拠点に活動をスタートしました。AWSに関心のある皆さんと一緒に、LT会やハンズオンを通じて交流と学びの場をつくっています。
+
 ## 主な活動内容
 
 JAWS-UG福岡では、以下のような活動を行っています。
@@ -36,7 +40,9 @@ JAWS-UG福岡では、以下のような活動を行っています。
   [Storage-JAWS](https://storage-jaws.connpass.com/)とのコラボイベント。
 - [[現地開催] JAWS-UG福岡in北九州 #21 Amazon Q Developer ハンズオン](https://jawsug-fukuoka.connpass.com/event/346669/)  
   Amazon Q Developer for CLI を使ってAIエージェントを動かしてみるハンズオンイベント。「JAWS-UG九州キャラバン 〜road to Summit 2025〜」の一環として開催。
-
+- [[現地開催] JAWS-UG福岡in北九州 #22 Amplifyを触ってみるよ。](https://jawsug-fukuoka.connpass.com/event/363283/)
+  ハンズオンAWS Amplify Gen2 を使ったウェブアプリケーション構築の学び方
+  
 ## 参加方法
 
 JAWS-UG福岡のイベント情報は、主にConnpassで告知しています。興味のある方はぜひ以下のリンクから参加登録をお願いします。
